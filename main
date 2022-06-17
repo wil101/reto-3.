@@ -1,0 +1,22 @@
+package co.edu.udea.concesionario;
+
+
+
+/**
+ *
+ * @author emanuel.lopezh y wilmar.osorio
+ */
+public class main {
+    
+    
+    public static void main(String[] args){
+        Automovil auto = new Automovil("MOR911", "Volkswagen", 2023,200,"violeta",500000000, "carro ultimo modelo del concesionario");
+        Llanta llanta = new Llanta();
+        Motor motor = new Motor();
+        Vendedor vendedor = new Vendedor(22,10508,30000000,2018,"alberto","stalin","trabajar vagabundo");
+       
+       
+    }
+    
+    
+}
