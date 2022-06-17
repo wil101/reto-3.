@@ -3,6 +3,7 @@ package co.edu.udea.concesionario;
 /**
  *
  * @author emanuel.lopezh
+ * @author wilmar.osorio1
  */
 public class main {
     
